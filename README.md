@@ -36,20 +36,20 @@
 | Nombre del Ítem | Regla de nombrado | Ubicación física | 
 | --- | --- | --- |
 Plan de Administración de Configuración | Plan de Administración de Configuración	ISW_G3_PlanSCM.pdf	| ./ISW_G3_PlanSCM.pdf
-Modalidad Académica | ISW_ModalidadAcademica_<yyyy>.pdf | ./ISW_ModalidadAcademica_2021.pdf
-Protocolos para rendir | ISW_ProtocoloExamen_<tipo_examen>.pdf | /General/Protocolos/
-Templates	para	rendir parciales prácticos | ISW_TemplateParcialPráctico_<número>.docx | /General/Material de soporte para parciales/
+Modalidad Académica | ISW_ModalidadAcademica_\<yyyy>.pdf | ./ISW_ModalidadAcademica_2021.pdf
+Protocolos para rendir | ISW_ProtocoloExamen_\<tipo_examen>.pdf | /General/Protocolos/
+Templates	para	rendir parciales prácticos | ISW_TemplateParcialPráctico_\<número>.docx | /General/Material de soporte para parciales/
 Material de soporte para parciales teóricos | ISW_SoporteParcialesTeóricos.pdf | /General/Material de soporte para parciales/
-Libros de Bibliografía | ISW_Bibliografía_<nombre>.pdf | /General/Bibliografia/
-Presentaciones clases teóricas | ISW_Teorico_Clase<Nro_clase>_<nombre>.pdf | /Teorico/Presentaciones/
-Trabajo conceptual póster científico | ISW_G3_TC_PÓSTER_<nombre>.pdf | /Teorico/Trabajos Conceptuales/Poster Cientifico/
-Trabajo conceptual Mapa Mental | ISW_G3_TC_MapaMental_<nombre>.<extensión> | /Teorico/Trabajos Conceptuales/Mapa Mental/
-Trabajo	conceptual exposición	oral (pechakucha) | ISW_G3_TC_PECHAKUCHA_<nombre>.pptx | /Teorico/Trabajos Conceptuales/Pecha Kucha/
-Guia ejercicios prácticos | ISW_Guía_EjerciciosPrácticos_<res>.pdf | /Practico
-Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_<numero>_<nombre>.pdf | /Practico/Evaluable/
-Trabajo práctico No Evaluable | ISW_G3_TP_NoEvaluable_<numero>_<nombre>.pdf | /Practico/No Evaluable/
-Línea base del repositorio | ISW_G3_LBase_<nombre_L_B>_<número> | 4K4_ISW_Grupo3_2021/releases
-Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_<nombre>.<extensión> | /Practico/Evaluable/Practico 6/Fuente
+Libros de Bibliografía | ISW_Bibliografía_\<nombre>.pdf | /General/Bibliografia/
+Presentaciones clases teóricas | ISW_Teorico_Clase\<Nro_clase>_\<nombre>.pdf | /Teorico/Presentaciones/
+Trabajo conceptual póster científico | ISW_G3_TC_PÓSTER_\<nombre>.pdf | /Teorico/Trabajos Conceptuales/Poster Cientifico/
+Trabajo conceptual Mapa Mental | ISW_G3_TC_MapaMental_\<nombre>.\<extensión> | /Teorico/Trabajos Conceptuales/Mapa Mental/
+Trabajo	conceptual exposición	oral (pechakucha) | ISW_G3_TC_PECHAKUCHA_\<nombre>.pptx | /Teorico/Trabajos Conceptuales/Pecha Kucha/
+Guia ejercicios prácticos | ISW_Guía_EjerciciosPrácticos_\<res>.pdf | /Practico
+Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_<numero>_\<nombre>.pdf | /Practico/Evaluable/
+Trabajo práctico No Evaluable | ISW_G3_TP_NoEvaluable_\<numero>_\<nombre>.pdf | /Practico/No Evaluable/
+Línea base del repositorio | ISW_G3_LBase_\<nombre_L_B>_\<número> | 4K4_ISW_Grupo3_2021/releases
+Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_\<nombre>.\<extensión> | /Practico/Evaluable/Practico 6/Fuente
  
  ## Glosario
 
