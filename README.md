@@ -50,3 +50,16 @@ Trabajo práctico | ISW_G3_TP_<eval>_<numero>_<nombre>.pdf | /Practico
 Línea base del repositorio | - | /
 Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_<nombre>.<extensión> | -
  
+ ## Glosario
+
+| Sigla | Significado | 
+| --- | --- |
+\<yyyy> | Año lectivo |
+\<tipo_examen> | Examen parcial o final |
+\<número> | Número cardinal, inicia en 01
+\<nombre> | Nombre identificatorio del item. Ej.: “Roles y Ciclo de Vida”, “User Stories Applied”
+\<tipo_clase> | Teórica o práctica
+\<res> | Resueltos o enunciados
+\<eval> |	Evaluable o No evaluable
+\<nombre_L_B> |	Nombre identificatorio de la línea base
+\<extensión> |	Nombre de la extensión del archivo definido como ítem
