@@ -9,9 +9,9 @@
 |─── Teórico
 |	|─── Presentaciones
 |	|─── Trabajos conceptuales
-|	|─── Póster científico
-|	|─── Mapa Mental
-|	|─── Pecha Kucha
+|	| |─── Póster científico
+|	| |─── Mapa Mental
+|	| |─── Pecha Kucha
 |─── Práctico
 |	|─── Evaluable
 |	|	|─── Práctico 1
