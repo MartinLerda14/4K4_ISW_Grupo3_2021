@@ -46,7 +46,7 @@ Trabajo conceptual póster científico | ISW_G3_TC_PÓSTER_\<nombre>.pdf | /Teor
 Trabajo conceptual Mapa Mental | ISW_G3_TC_MapaMental_\<nombre>.\<extensión> | /Teorico/Trabajos Conceptuales/Mapa Mental/
 Trabajo	conceptual exposición	oral (pechakucha) | ISW_G3_TC_PECHAKUCHA_\<nombre>.pptx | /Teorico/Trabajos Conceptuales/Pecha Kucha/
 Guia ejercicios prácticos | ISW_Guía_EjerciciosPrácticos_\<res>.pdf | /Practico
-Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_<numero>_\<nombre>.pdf | /Practico/Evaluable/
+Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_\<numero>_\<nombre>.pdf | /Practico/Evaluable/
 Trabajo práctico No Evaluable | ISW_G3_TP_NoEvaluable_\<numero>_\<nombre>.pdf | /Practico/No Evaluable/
 Línea base del repositorio | ISW_G3_LBase_\<nombre_L_B>_\<número> | 4K4_ISW_Grupo3_2021/releases
 Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_\<nombre>.\<extensión> | /Practico/Evaluable/Practico 6/Fuente
