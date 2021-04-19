@@ -35,8 +35,8 @@
 
 | Nombre del Ítem | Regla de nombrado | Ubicación física | 
 | --- | --- | --- |
-Plan de Administración de Configuración | Plan de Administración de Configuración	ISW_G3_PlanSCM.pdf	| /
-Modalidad Académica | ISW_ModalidadAcademica_<yyyy>.pdf | /
+Plan de Administración de Configuración | Plan de Administración de Configuración	ISW_G3_PlanSCM.pdf	| ./ISW_G3_PlanSCM.pdf
+Modalidad Académica | ISW_ModalidadAcademica_<yyyy>.pdf | ./ISW_ModalidadAcademica_2021.pdf
 Protocolos para rendir | ISW_ProtocoloExamen_<tipo_examen>.pdf | /General/Protocolos/
 Templates	para	rendir parciales prácticos | ISW_TemplateParcialPráctico_<número>.docx | /General/Material de soporte para parciales/
 Material de soporte para parciales teóricos | ISW_SoporteParcialesTeóricos.pdf | /General/Material de soporte para parciales/
@@ -46,9 +46,10 @@ Trabajo conceptual póster científico | ISW_G3_TC_PÓSTER_<nombre>.pdf | /Teori
 Trabajo conceptual Mapa Mental | ISW_G3_TC_MapaMental_<nombre>. <extensión> | /Teorico/Trabajos Conceptuales/Mapa Mental/
 Trabajo	conceptual exposición	oral (pechakucha) | ISW_G3_TC_PECHAKUCHA_<nombre>.pptx | /Teorico/Trabajos Conceptuales/Pecha Kucha/
 Guia ejercicios prácticos | ISW_Guía_EjerciciosPrácticos_<res>.pdf | -
-Trabajo práctico | ISW_G3_TP_<eval>_<numero>_<nombre>.pdf | /Practico
-Línea base del repositorio | - | /
-Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_<nombre>.<extensión> | -
+Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_<numero>_<nombre>.pdf | /Practico/Evaluable/
+Trabajo práctico No Evaluable | ISW_G3_TP_NoEvaluable_<numero>_<nombre>.pdf | /Practico/No Evaluable/
+Línea base del repositorio | - | 4K4_ISW_Grupo3_2021/releases
+Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_<nombre>.<extensión> | ./Practico/Evaluable/Practico 6/Fuente
  
  ## Glosario
 
@@ -60,7 +61,6 @@ Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G
 \<nombre> | Nombre identificatorio del item. Ej.: “Roles y Ciclo de Vida”, “User Stories Applied”
 \<tipo_clase> | Teórica o práctica
 \<res> | Resueltos o enunciados
-\<eval> |	Evaluable o No evaluable
 \<nombre_L_B> |	Nombre identificatorio de la línea base
 \<extensión> |	Nombre de la extensión del archivo definido como ítem
 
