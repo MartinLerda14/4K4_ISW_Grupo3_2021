@@ -63,3 +63,7 @@ Componente de Software (código	fuente, ejecutables, librerías comunes) | ISW_G
 \<eval> |	Evaluable o No evaluable
 \<nombre_L_B> |	Nombre identificatorio de la línea base
 \<extensión> |	Nombre de la extensión del archivo definido como ítem
+
+## Gestión de la línea base
+Cada línea base del SCM será creada durante el día posterior a la fecha de cada uno de los exámenes parciales de la cátedra. En la misma, estarán incluidos todos los archivos de la rama o branch “master” del repositorio cuyo commit se haya producido hasta las 23:59 del día anterior al parcial.
+Esta línea base será almacenada en forma de release dentro de la ruta https://github.com/MartinLerda14/4K4_ISW_Grupo3_2021/releases/, tal como fue definido en el listado de items de configuración
