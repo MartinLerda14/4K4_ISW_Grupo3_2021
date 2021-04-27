@@ -49,7 +49,7 @@ Guia ejercicios prácticos | ISW_Guía_EjerciciosPrácticos_\<res>.pdf | /Practi
 Trabajo práctico Evaluable | ISW_G3_TP_Evaluable_\<numero>_\<nombre>.pdf | /Practico/Evaluable/
 Trabajo práctico No Evaluable | ISW_G3_TP_NoEvaluable_\<numero>_\<nombre>.pdf | /Practico/No Evaluable/
 Línea base del repositorio | ISW_G3_LBase_\<nombre_L_B>_\<número> | 4K4_ISW_Grupo3_2021/releases
-Implementación de Software (código	fuente, ejecutables, librerías comunes) | ISW_G3_\<nombre>.\<extensión> | /Practico/Evaluable/Practico 6/Fuente
+Implementación de Software (código	fuente, ejecutables, librerías comunes) | \<nombre>.\<extensión> | /Practico/Evaluable/Practico 6/Fuente
  
  ## Glosario
 
